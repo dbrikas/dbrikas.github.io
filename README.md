@@ -5,3 +5,4 @@
 ## Labs
 - [Creating a user account in Active Directory](labs/ad-user-account.md)
 - [Resolving a locked user account](labs/locked-user-account.md)
+- [Delegation of Control](labs/delegation-of-control.md)
